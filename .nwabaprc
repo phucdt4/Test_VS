@@ -1,0 +1,13 @@
+{
+ "base": "./dist",
+ "conn_usestrictssl": false,
+ "conn_server": "https://yoursystem:44300/",
+ "conn_client": "100",
+ "conn_user": "phucdo",
+ "conn_password": "178Thienphuc",
+ "abap_package": "ZDEV",
+ "abap_transport": "XXXXXXXXXX",
+ "abap_bsp": "ZAPPSAPUI5",
+ "abap_bsp_text": "UI5 upload local objects",
+ "calcappindex": true
+}
